@@ -1,8 +1,4 @@
-### Hiya!
-I'm Fae - She/Her
-
-I'm 17 and currently studying game development at college!
-I'm just looking to learn some new things and build a portfolio
+Fae - She/Her
 
 <!--
 **Demigoddess115/Demigoddess115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
